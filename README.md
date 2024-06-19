@@ -3,3 +3,4 @@ Telegram эхо бот, который присылает фото котико�
 
 <img src="https://raw.githubusercontent.com/MarinaDVetrova/CoinRate/master/images/final.gif" width="400px" alt="CoinRate">
 :sparkles:
+:shipit: 
